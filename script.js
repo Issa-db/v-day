@@ -13,17 +13,17 @@ const noMessages = [
     "No",
     "Are you positive? 🤔",
     "Pookie please... 🥺",
-    "If you say no, I will be really sad...",
+    "If you say no, I will be really sad ya Rehab...",
     "I will be very sad... 😢",
-    "Please??? 💔",
+    "Please ya MOZAAA??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "Ya Rehab try saying no first... متبقيش مدلوقه يخربيتك 😏",
+    "go on, hit no... just once ya roo7 ommk👀",
     "you're missing out 😈",
     "click no, I dare you 😏"
 ]
@@ -48,7 +48,7 @@ music.play().then(() => {
     // Fallback: unmute on first interaction
     document.addEventListener('click', () => {
         music.muted = false
-        music.play().catch(() => {})
+        music.play().catch(() => { })
     }, { once: true })
 })
 
