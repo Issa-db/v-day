@@ -101,4 +101,3 @@ You can preview the site on your computer before deploying:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
