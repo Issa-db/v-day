@@ -5,15 +5,6 @@ A fun, interactive Valentine's Day page where the "Yes" button grows bigger ever
 **Live demo:** https://issa-db.github.io/v-day/
 
 
----
-
-## Want to Use This to Impress Your GF/Wife?
-
-You've got three options — pick whatever works for you.
-
----
-
-
 ### Fork It and Make It Yours
 
 Want your own version you can customize? Follow these steps:
@@ -45,7 +36,7 @@ Want your own version you can customize? Follow these steps:
 
 ---
 
-### Option 3: Vibe Code Your Own From Scratch
+### Vibe Code Your Own From Scratch
 
 Want something completely unique? Use AI to build it.
 
@@ -100,4 +91,4 @@ You can preview the site on your computer before deploying:
  
 
 ## License
-
+@SahilGogna
