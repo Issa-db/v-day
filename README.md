@@ -99,8 +99,6 @@ You can preview the site on your computer before deploying:
 3. Open your browser and go to: `http://localhost:8000`
  
 
-License
-@SahilGogna 
+## License
 
----
-Last updated: Fri Feb 13 08:26:35 CET 2026
+Distributed under the MIT License. See `LICENSE` for more information.
